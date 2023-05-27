@@ -1,5 +1,6 @@
 # Dress-Me-AI
 TechStack - ML, NLP, CNN, Django, Python, JS, HTML, CSS.
+Database - Sqlite
 02/2023 - 05/2023
 Shopping website that displays the required
 products according to the description.
