@@ -7,6 +7,8 @@ Database - Sqlite
 
 Shopping website that displays the required
 products according to the description.
+![DressMeAI (1)](https://github.com/Shruti1493/Dress-Me-AI/assets/121301137/8d3c26fe-f3ff-4309-96a9-cb705effc06e)
+
 
 Advanced features like Chatbot, Image searching, Instock notification through E-mail.
 
